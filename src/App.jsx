@@ -1,5 +1,6 @@
 import Home from "./components/Home"
 import Navbar from "./components/Navbar"
+import Shop from "./components/Shop"
 
 
 function App() {
@@ -11,6 +12,9 @@ function App() {
       <Navbar/>
       <div id="home">
         <Home/>
+      </div>
+      <div id="shop">
+        <Shop/>
       </div>
      </div>
       
