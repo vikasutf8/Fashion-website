@@ -37,11 +37,75 @@ const Shop = () => {
         },
         {
             id: 5,
-            img: "/src/assets/img/product1.jpg",
+            img: "/src/assets/img/product5.jpg",
             name: "Nike Air",
             price: "198.00",
             discount: "20% off",
         },
+        {
+            id: 6,
+            img: "/src/assets/img/product6.jpg",
+            name: "Nike Air",
+            price: "198.00",
+            discount: "20% off",
+        },
+        {
+            id: 7,
+            img: "/src/assets/img/product7.jpg",
+            name: "Nike Air",
+            price: "198.00",
+            discount: "20% off",
+        },
+        {
+            id: 8,
+            img: "/src/assets/img/product8.jpg",
+            name: "Nike Air",
+            price: "198.00",
+            discount: "20% off",
+        },
+        {
+            id: 9,
+            img: "/src/assets/img/product9.jpg",
+            name: "Nike Air",
+            price: "198.00",
+            discount: "20% off",
+        },
+        {
+            id: 10,
+            img: "/src/assets/img/product10.jpg",
+            name: "Nike Air",
+            price: "198.00",
+            discount: "20% off",
+        },
+        {
+            id: 11,
+            img: "/src/assets/img/product11.jpg",
+            name: "Nike Air",
+            price: "198.00",
+            discount: "20% off",
+        },
+        {
+            id: 12,
+            img: "/src/assets/img/product12.jpg",
+            name: "Nike Air",
+            price: "198.00",
+            discount: "20% off",
+        },
+        {
+            id: 13,
+            img: "/src/assets/img/product13.jpg",
+            name: "Nike Air",
+            price: "198.00",
+            discount: "20% off",
+        },
+        {
+            id: 14,
+            img: "/src/assets/img/product14.jpg",
+            name: "Nike Air",
+            price: "198.00",
+            discount: "20% off",
+        },
+
 
     ]
 

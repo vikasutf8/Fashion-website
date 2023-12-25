@@ -5,24 +5,24 @@ const Features = () => {
 
     const data = [
         {
-            id: 0,
-            img: "/src/assets/img/product1.jpg",
+            id: 6,
+            img: "/src/assets/img/product6.jpg",
             name: "Nike Air",
             price: "198.00",
             discount: "20% off",
         },
         {
-            id: 1,
-            img: "/src/assets/img/product2.jpg",
-            name: "Sportswear Futura",
-            price: "205.00",
-            discount: "40% off",
+            id: 7,
+            img: "/src/assets/img/product7.jpg",
+            name: "Nike Air",
+            price: "198.00",
+            discount: "20% off",
         },
         {
-            id: 3,
-            img: "/src/assets/img/product3.jpg",
-            name: "t-shirt combo pack",
-            price: "298.00",
+            id: 8,
+            img: "/src/assets/img/product8.jpg",
+            name: "Nike Air",
+            price: "198.00",
             discount: "20% off",
         },
        

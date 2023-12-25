@@ -4,24 +4,24 @@ import ProductCard from '../layouts/ProductCard'
 const Products = () => {
     const data = [
         {
-            id: 0,
-            img: "/src/assets/img/product1.jpg",
+            id: 10,
+            img: "/src/assets/img/product10.jpg",
             name: "Nike Air",
             price: "198.00",
             discount: "20% off",
         },
         {
-            id: 1,
-            img: "/src/assets/img/product2.jpg",
-            name: "Sportswear Futura",
-            price: "205.00",
-            discount: "40% off",
+            id: 11,
+            img: "/src/assets/img/product11.jpg",
+            name: "Nike Air",
+            price: "198.00",
+            discount: "20% off",
         },
         {
-            id: 3,
-            img: "/src/assets/img/product3.jpg",
-            name: "t-shirt combo pack",
-            price: "298.00",
+            id: 12,
+            img: "/src/assets/img/product12.jpg",
+            name: "Nike Air",
+            price: "198.00",
             discount: "20% off",
         },
        
