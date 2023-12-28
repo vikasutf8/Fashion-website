@@ -4,7 +4,7 @@ import img from "../assets/img/collection.png"
 
 const Collections = () => {
     return (
-        <div className='h-screen lg:h-[70vh] flex flex-col justify-between lg:flex-row items-center bg-PrimaryColor mt-0 lg:px-32 px-5 capitalize'>
+        <div className='h-screen lg:h-[70vh] flex flex-col justify-between lg:flex-row items-center bg-PrimaryColor mt-10 lg:px-32 px-5 capitalize'>
             {/* img sections */}
             <div className='flex justify-center w-full lg:w-2/4 pt-6'>
                 <img src={img} alt="img" />
